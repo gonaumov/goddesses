@@ -1,5 +1,5 @@
 {
-  "goddesses": [
+  "list": [
     { "id": 1, "name": "Athena" },
     { "id": 2, "name": "Artemis" },
     { "id": 3, "name": "Agrat" },
