@@ -1,0 +1,8 @@
+{
+  "goddesses": [
+    { id: 1, name: 'Athena' },
+    { id: 2, name: 'Artemis' },
+    { id: 3, name: 'Agrat' },
+    { id: 4, name: 'Aphrodite' }	  
+  ]
+}
