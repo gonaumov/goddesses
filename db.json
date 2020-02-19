@@ -1,8 +1,8 @@
 {
   "list": [
-    { "id": 1, "name": "אגרת בת מחלת" },
-    { "id": 2, "name": "נַעֲמָה‎" },
-    { "id": 3, "name": "לילית" },
-    { "id": 4, "name": "אֵשֶׁת זְנוּנִים" }
+    { "id": 1, "name": "Athena" },
+    { "id": 2, "name": "Artemis" },
+    { "id": 3, "name": "Agrat" },
+    { "id": 4, "name": "Aphrodite" }
   ]
 }
